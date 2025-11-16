@@ -1,4 +1,4 @@
-name: Detecta Secretos
+name: DSecrets
 
 on:
   workflow_dispatch:
